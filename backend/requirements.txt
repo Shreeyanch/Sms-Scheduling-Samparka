@@ -1,0 +1,5 @@
+fastapi[all]            # FastAPI framework
+uvicorn                 # ASGI server for running FastAPI
+psycopg2-binary        # PostgreSQL adapter for Python
+sqlalchemy              # SQLAlchemy ORM
+python-dotenv           # For loading environment variables from .env file
